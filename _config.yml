@@ -7,6 +7,7 @@ baseurl:     ""
 url:         "http://zwischenmensch.at"
 date_format: "%b %-d, %Y"
 
+
 # Google services
 google_analytics:
 google_verification:
@@ -53,7 +54,9 @@ share_hackernews: false
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
+permalink:    :title/
 paginate:     4
 sass:
   compressed: true
+
+
