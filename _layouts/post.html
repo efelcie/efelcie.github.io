@@ -9,7 +9,24 @@ layout: default
 
 <div class="post-header mb2">
   <h1>{{ page.title }}</h1>
-  <span class="post-meta">{{ page.date | date: site.date_format }}</span><br>
+  <span class="post-meta"><!-- Whitespace added for readability -->
+  {% assign m = page.date | date: "%-m" %}
+  {{ page.date | date: "%-d." }}
+  {% case m %}
+    {% when '1' %}Januar
+    {% when '2' %}Februar
+    {% when '3' %}M&auml;rz
+    {% when '4' %}April
+    {% when '5' %}Mai
+    {% when '6' %}Juni
+    {% when '7' %}Juli
+    {% when '8' %}August
+    {% when '9' %}September
+    {% when '10' %}Oktober
+    {% when '11' %}November
+    {% when '12' %}Dezember
+  {% endcase %}
+  {{ page.date | date: "%Y" }}</span><br>
   {% if page.update_date %}
     <span class="post-meta">Updated: {{ page.update_date | date: site.date_format }}</span><br>
   {% endif %}
