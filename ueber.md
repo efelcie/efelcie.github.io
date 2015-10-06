@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Pixyll
-permalink: /about/
+permalink: /ueber/
 ---
 
 This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
