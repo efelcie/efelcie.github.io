@@ -9,19 +9,21 @@ date_format: "%b %-d, %Y"
 
 
 # Google services
-google_analytics:
+google_analytics:	UA-68575299-1
 google_verification:
 
+
+
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   false
 show_post_footers:    false
-show_social_icons:    false
+show_social_icons:    true
 ajaxify_contact_form: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname:		
 
 # Social icons
 github_username:		efelcie
