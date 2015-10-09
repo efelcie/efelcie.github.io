@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /ueber/
+---
+
 # Zwischenmensch
 
   Zwischenmensch ist ein Blog, der Storytelling, Management und Soziologie mit einander verbindet.
