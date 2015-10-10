@@ -63,22 +63,22 @@ Design Thinking polarisiert. Für die einen ist es eine Offenbarung, für die an
 
 ### Design Thinking im Reich der Traditionalisten
 
-  Design Thinking ist nur für die etwas revolutionäres, die bis jetzt einer anderen Arbeitsweise gefolgt sind. Und das sich der Umstieg in der Herangehensweise auszahlt sieht man an vielen populären Beispielen in den unterschiedlichsten Sparten.
+  Design Thinking ist nur für die etwas Revolutionäres, die bis jetzt einer anderen Arbeitsweise gefolgt sind. Und dass ich der Umstieg in der Herangehensweise auszahlt sieht man an vielen populären Beispielen in den unterschiedlichsten Sparten.
 
-  Das führt dazu das sehr viel Geld im Zusammenhang mit Design Thinking verwendet wird. Einerseits um Design Thinking besser zu verstehen und zu erforschen. Andererseits um Design Thinking in bestehende Organisationen zu integrieren.
+  Das führt dazu, dass sehr viel Geld im Zusammenhang mit Design Thinking verwendet wird. Einerseits um Design Thinking besser zu verstehen und zu erforschen. Andererseits um Design Thinking in bestehende Organisationen zu integrieren.
 
   Jedoch auch für die *Native Design Thinker* ergeben sich dadurch neue Chancen und Möglichkeiten. 
 
 
 ### Optimiertes Werkzeug
 
-  Das seit 1995 viel Geld in die Erforschung von Design Thinking investiert wurde, heißt auch, dass seit dieser Zeit das kreative Problemlösen, wie es für Native Design Thinker natürlich ist, erforscht wurden. Design Thinking gibt uns so die Möglichkeit auf gut erforschte und Werkzeuge und Konzepte zurück zu greifen. Werkzeuge und Konzepte die genau für diese Art von Arbeit entwickelt wurden.
+  Das seit 1995 viel Geld in die Erforschung von Design Thinking investiert wurde, heißt auch, dass seit dieser Zeit das kreative Problemlösen, wie es für Native Design Thinker natürlich ist, erforscht wurde. Design Thinking gibt uns so die Möglichkeit auf gut erforschte Werkzeuge und Konzepte zurück zu greifen. Werkzeuge und Konzepte die genau für diese Art von Arbeit entwickelt wurden.
 
   
 
 ### Design Thinking als Kommunikationsmittel
 
-  Die Idee von Design Thinking war jedoch nicht Designern bessere Werkzeuge zu Verfügung zu stellen. Die Idee war, die Arbeitsweise in andere Bereiche einzuführen. Design Thinking hat sich immer mit der Wissen mit entwickelt, dies Menschen für die die Arbeitsweise neu ist, zu vermitteln zu müssen. Somit ist Design Thinking auch ein Kommunikationsmittel geworden. Es wirbt für die Arbeitsweise, die für viele die normale Arbeitsweise ist. Das schafft Akzeptanz und neue Spielwiesen für Native Design Thinker.
+  Die Idee von Design Thinking war jedoch nicht Designern bessere Werkzeuge zu Verfügung zu stellen. Die Idee war, die Arbeitsweise von Designern in andere Bereiche einzuführen. Design Thinking hat sich immer mit der Wissen mit entwickelt, dies Menschen für die die Arbeitsweise neu ist, zu vermitteln zu müssen. Somit ist Design Thinking auch ein Kommunikationsmittel geworden. Es wirbt für die Arbeitsweise, die für viele die normale Arbeitsweise ist. Das schafft Akzeptanz und neue Spielwiesen für Native Design Thinker.
 
 
   Design Thinking beschreibt den kreativen Geist von denen die nicht zum Probieren aufgehört haben und macht ihn für die wieder zugänglich die mit fünf zum Sandspielen aufgehört haben.
