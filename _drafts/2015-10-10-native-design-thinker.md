@@ -47,7 +47,7 @@ Design Thinking polarisiert. Für die einen ist es eine Offenbarung, für die an
 
   Wenn man mit Menschen über *Design Thinking* spricht, wird man oft mit einer ähnlichen Reaktion konfrontiert. "Da schmückt sich wer mit fremden Federn." "Ein alter Hut." 
 
-  Auf der anderen Seite gibt es einen Riesen Hype um *Design Thinking*. So richtet zum Beispiel die *Havard Business Review* in der Ausgabe vom September 2015 ihren Spotlight auf Design Thinking und beschreibt an Beispielen von großen Unternehmen wie *Samsung*, *PepsiCo* und natürlich *IDEO*, wie man daraus Vorteile ziehen kann.[^1] Auch in neuere Management Ansätzen, wie zum Beispiel *Lean Startup* oder *Radical Management*, hat Design Thinking eine wichtigen Platz.
+  Auf der anderen Seite gibt es einen Hype um *Design Thinking*. So richtet zum Beispiel die *Harvard Business Review* in der Ausgabe vom September 2015 ihren Spotlight auf Design Thinking und beschreibt an Beispielen von großen Unternehmen wie *Samsung*, *PepsiCo* und natürlich *IDEO*, wie man daraus Vorteile ziehen kann.[^1] Auch in neueren Managementansätzen, wie zum Beispiel *Lean Startup* oder *Radical Management*, hat Design Thinking eine wichtigen Platz.
 
 ## Native Design Thinker
 
@@ -86,6 +86,6 @@ Design Thinking polarisiert. Für die einen ist es eine Offenbarung, für die an
 
 ###Fußnoten
 
-[^1]: Havard Business Review. September 2015. Spotlight: Design Thinking <https://hbr.org/archive-toc/BR1509>
+[^1]: Harvard Business Review. September 2015. Spotlight: Design Thinking <https://hbr.org/archive-toc/BR1509>
 
 [^2]: Wikipediaartikel zu Design Thinking <https://de.wikipedia.org/wiki/Design_Thinking>
