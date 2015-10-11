@@ -7,7 +7,7 @@ permalink: /ueber/
 
   Zwischenmensch ist ein Blog, der Storytelling, Management und Soziologie mit einander verbindet.
 
-  <zwischenmensch.at>
+
 
 ## Vielen Dank
 
