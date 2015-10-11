@@ -42,7 +42,7 @@ Design Thinking polarisiert. Für die einen ist es eine Offenbarung, für die an
 
  > Design Thinking ist ein Ansatz, der zum Lösen von Problemen und zur Entwicklung neuer Ideen führen soll. Ziel ist dabei, Lösungen zu finden, die aus Anwendersicht (Nutzersicht) überzeugend sind. Im Kontrast zu anderen Innovationsmethoden kann bzw. wird Design Thinking teilweise nicht als Methode oder Prozess, sondern als Ansatz beschrieben, der auf den drei gleichwertigen Grundprinzipien Team, Raum und Prozess besteht.[^Hilbrecht]
  >
- > (Hester Hilbrecht / Oliver Kempkens)
+ > --- Hester Hilbrecht / Oliver Kempkens
 
   Doch ich wusste damit nicht wirklich was anzufangen. Für mich schien nichts wirklich neu zu sein. Meine Kolleginnen und Kollegen waren begeistert. Ich verstand das nicht wirklich und blockte ab. Design Thinking schien für mich erstmals abgehakt.
   
