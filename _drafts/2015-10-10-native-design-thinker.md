@@ -12,7 +12,7 @@ author:      Peter Flucher
 
 
 
-Design Thinking polarisiert. Für die einen ist es eine Offenbarung, für die anderen ein alter Hut. Der Grund dafür ist, dass es viele Native Design Thinker gibt.
+
 
 
 
@@ -71,7 +71,7 @@ Design Thinking polarisiert. Für die einen ist es eine Offenbarung, für die an
 
   Ähnlich verhält es sich mit der Generation, die in einer Zeit begann den Computer zu erforschen, in der noch nicht alles in kurzer Zeit ergoogelbar war. Um den Computer zu erforschen, musste man probieren. Abstürze, Bluescreens den Computer neu aufzusetzen, waren normal. 
 
-  ![](https://upload.wikimedia.org/wikipedia/commons/0/0f/Keller_lan.jpg)
+  ![Blue Screen bei Windows 2000.](https://upload.wikimedia.org/wikipedia/commons/a/a8/Windows_XP_BSOD.png)
 
   Egal ob neue Software, Computerspiele oder sich ein MP3 runter zu laden, es war ein Abenteuer. Ohne probieren und Fehler ging nichts. Wir hörten nicht mit 5 auf in der Sandkiste zu spielen.
 
@@ -138,5 +138,5 @@ Design Thinking polarisiert. Für die einen ist es eine Offenbarung, für die an
 
 
 
-{{path}}
+
 
