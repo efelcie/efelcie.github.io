@@ -11,9 +11,10 @@ permalink: /ueber/
 
 ## Vielen Dank
 
-  Diesr Blog schliest an folgende Projekte an.
+  Dieser Blog schliest an folgende Projekte an.
 
 * [Pixyll](http://pixyll.com)
 * [GitHub](http://github.com)
 
+{{path}}
 
