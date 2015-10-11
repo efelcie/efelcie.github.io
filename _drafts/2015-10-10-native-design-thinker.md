@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Native Design Thinker
-date:       2015-10-07
+date:       2015-10-11
 summary:    Design Thinking polarisiert. Für die einen ist es eine Offenbarung, für die anderen ein alter Hut. Der Grund dafür ist, dass es viele Native Design Thinker gibt.
 categories: design thinking agile
 author:      Peter Flucher
@@ -55,7 +55,7 @@ Design Thinking polarisiert. Für die einen ist es eine Offenbarung, für die an
 
   Wenn man mit Menschen über Design Thinking spricht, wird man oft mit einer ähnlichen Reaktion konfrontiert. "Da schmückt sich wer mit fremden Federn." "Ein alter Hut." 
 
-  Auf der anderen Seite gibt es einen Hype um Design Thinking. So richtet zum Beispiel die *Harvard Business Review* in der Ausgabe vom September 2015 ihren Spotlight auf Design Thinking und beschreibt an Beispielen von großen Unternehmen wie *Samsung*, *PepsiCo* und natürlich *IDEO*, wie man daraus Vorteile ziehen kann.[^HBR] Auch in neueren Managementansätzen, wie zum Beispiel *Lean Startup* oder *Radical Management*, hat Design Thinking eine wichtigen Platz.
+  Auf der anderen Seite gibt es einen Hype um Design Thinking. So richtet zum Beispiel die *Harvard Business Review* in der Ausgabe vom September 2015[^HBR] ihren Spotlight auf Design Thinking und beschreibt an Beispielen von großen Unternehmen wie *Samsung*, *PepsiCo* und natürlich *IDEO*, wie man daraus Vorteile ziehen kann oder dem Artikel von Irving Wladawsky-Berger im Wall Street Journal[^Wladawsky]. Auch in neueren Managementansätzen, wie zum Beispiel *Lean Startup*[^Ries] oder *Radical Management*[^Denning], hat Design Thinking eine wichtigen Platz.
 
 
 
@@ -69,7 +69,11 @@ Design Thinking polarisiert. Für die einen ist es eine Offenbarung, für die an
 
 ### Generation Sandkiste
 
-  Ähnlich verhält es sich mit der Generation, die in einer Zeit begann den Computer zu erforschen, in der noch nicht alles in kurzer Zeit ergoogelbar war. Um den Computer zu erforschen, musste man probieren. Abstürze, Bluescreens den Computer neu aufzusetzen, waren normal. Egal ob neue Software, Computerspiele oder sich ein MP3 runter zu laden, es war ein Abenteuer. Ohne probieren und Fehler ging nichts. Wir hörten nicht mit 5 auf in der Sandkiste zu spielen.
+  Ähnlich verhält es sich mit der Generation, die in einer Zeit begann den Computer zu erforschen, in der noch nicht alles in kurzer Zeit ergoogelbar war. Um den Computer zu erforschen, musste man probieren. Abstürze, Bluescreens den Computer neu aufzusetzen, waren normal. 
+
+  ![](https://upload.wikimedia.org/wikipedia/commons/0/0f/Keller_lan.jpg)
+
+  Egal ob neue Software, Computerspiele oder sich ein MP3 runter zu laden, es war ein Abenteuer. Ohne probieren und Fehler ging nichts. Wir hörten nicht mit 5 auf in der Sandkiste zu spielen.
 
 ## Nutzen für Kreative
 
@@ -88,7 +92,15 @@ Design Thinking polarisiert. Für die einen ist es eine Offenbarung, für die an
 
 ### Optimiertes Werkzeug
 
-  Das seit 1995 viel Geld in die Erforschung von Design Thinking investiert wurde, heißt auch, dass seit dieser Zeit das kreative Problemlösen, wie es für Native Design Thinker natürlich ist, erforscht wurde. Design Thinking gibt uns so die Möglichkeit auf gut erforschte Werkzeuge und Konzepte zurück zu greifen. Werkzeuge und Konzepte die genau für diese Art von Arbeit entwickelt wurden.
+  Das seit 1995 viel Geld in die Erforschung von Design Thinking investiert wurde, heißt auch, dass seit dieser Zeit das kreative Problemlösen, wie es für Native Design Thinker natürlich ist, erforscht wurde. Design Thinking gibt uns so die Möglichkeit auf gut erforschte Werkzeuge[^dschool] und Konzepte zurück zu greifen. Werkzeuge und Konzepte die genau für diese Art von Arbeit entwickelt wurden.
+
+
+  [![Empathy Map der d.school.](https://dschool.stanford.edu/groups/k12/wiki/3d994/images/__thumbs__/bec3c.jpg)](http://dschool.stanford.edu/use-our-methods/)
+
+
+
+
+  
 
   
 
@@ -104,14 +116,27 @@ Design Thinking polarisiert. Für die einen ist es eine Offenbarung, für die an
 
 
 
-###Fußnoten
+## Links
 
-[^HBR]: Harvard Business Review. September 2015. Spotlight: Design Thinking <https://hbr.org/archive-toc/BR1509>
+[^HBR]: *Spotlight: Design Thinking.* In Harvard Business Review. September 2015.  <https://hbr.org/archive-toc/BR1509>.
 
-[^wiki]: Wikipedia (de): Design Thinking <https://de.wikipedia.org/wiki/Design_Thinking>
+[^wiki]: Design Thinking. Auf Wikipedia (de). <https://de.wikipedia.org/wiki/Design_Thinking>.
 
-[^HPI]: Hasso-Plattner-Institut: Was ist Design Thinking? <http://hpi-academy.de/design-thinking/was-ist-design-thinking.html>
+[^HPI]: Was ist Design Thinking? Auf Hasso-Plattner-Institut. <http://hpi-academy.de/design-thinking/was-ist-design-thinking.html>.
 
-[^IDEO]: IDEO: About IDEO <https://www.ideo.com/about/>
+[^IDEO]: About IDEO. Auf IDEO. <https://www.ideo.com/about/>.
 
-[^Hilbrecht]: Hester Hilbrecht / Oliver Kempkens: Design Thinking im Unternehmen, <http://link.springer.com/chapter/10.1007/978-3-658-00371-5_1>
+[^Hilbrecht]: Hester Hilbrecht / Oliver Kempkens: *Design Thinking im Unternehmen.* <http://link.springer.com/chapter/10.1007/978-3-658-00371-5_1>. (Springer Link)
+
+[^Ries]: Eric Ries: *The Lean Startup: How Constant Innovation Creates Radically Successful Businesses* 2011, <http://www.amazon.de/Lean-Startup-Innovation-Successful-Businesses/dp/0670921602/ref=sr_1_2?ie=UTF8&qid=1444573396&sr=8-2&keywords=lean+startup>. (Amzazon.de)
+
+[^Denning]: Steve Denning: *The Leader's Guide to Radical Management: Reinventing the Workplace for the 21st Century*. 2010, <http://www.amazon.de/Leaders-Guide-Radical-Management-Reinventing/dp/0470548681/ref=sr_1_1?ie=UTF8&qid=1444572773&sr=8-1&keywords=radical+management>. (Amazon.de)
+
+[^dschool]: Use our Methods. Von d.school (Intitute of Design at Stanford) <http://dschool.stanford.edu/use-our-methods/>.
+
+[^Wladawsky]: Irving Wladawsky-Berger: The Evolution of Design Thinking. In The Wall Street Journal, CIO Journal, 25.9.2015 <http://blogs.wsj.com/cio/2015/09/25/the-evolution-of-design-thinking/>.
+
+{{page.url}}
+
+{{path}}
+
