@@ -136,7 +136,7 @@ Design Thinking polarisiert. Für die einen ist es eine Offenbarung, für die an
 
 [^Wladawsky]: Irving Wladawsky-Berger: The Evolution of Design Thinking. In The Wall Street Journal, CIO Journal, 25.9.2015 <http://blogs.wsj.com/cio/2015/09/25/the-evolution-of-design-thinking/>.
 
-{{page.url}}
+
 
 {{path}}
 
