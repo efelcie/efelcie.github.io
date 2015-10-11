@@ -1,20 +1,11 @@
 ---
 layout:     post
-title:      Native Design Thinker
+title:      Native Design Thinkers
 date:       2015-10-11
-summary:    Design Thinking polarisiert. Für die einen ist es eine Offenbarung, für die anderen ein alter Hut. Der Grund dafür ist, dass es viele Native Design Thinker gibt.
+summary:    Design Thinking polarisiert. Für die einen ist es eine Offenbarung, für die anderen ein alter Hut. Der Grund dafür ist, dass es viele Native Design Thinkers gibt.
 categories: design thinking agile
 author:      Peter Flucher
 ---
-
-
-  
-
-
-
-
-
-
 
 
 ## Skepsis trifft Design Thinking 
@@ -59,7 +50,7 @@ author:      Peter Flucher
 
 
 
-## Native Design Thinker
+## Native Design Thinkers
 
 ### Denken wie Kreative
 
@@ -87,12 +78,12 @@ author:      Peter Flucher
 
   Das führt dazu, dass sehr viel Geld im Zusammenhang mit Design Thinking verwendet wird. Einerseits um Design Thinking besser zu verstehen und zu erforschen. Andererseits um Design Thinking in bestehende Organisationen zu integrieren.
 
-  Jedoch auch für die *Native Design Thinker* ergeben sich dadurch neue Chancen und Möglichkeiten. 
+  Jedoch auch für die *Native Design Thinkers* ergeben sich dadurch neue Chancen und Möglichkeiten. 
 
 
 ### Optimiertes Werkzeug
 
-  Das seit 1995 viel Geld in die Erforschung von Design Thinking investiert wurde, heißt auch, dass seit dieser Zeit das kreative Problemlösen, wie es für Native Design Thinker natürlich ist, erforscht wurde. Design Thinking gibt uns so die Möglichkeit auf gut erforschte Werkzeuge[^dschool] und Konzepte zurück zu greifen. Werkzeuge und Konzepte die genau für diese Art von Arbeit entwickelt wurden.
+  Das seit 1995 viel Geld in die Erforschung von Design Thinking investiert wurde, heißt auch, dass seit dieser Zeit das kreative Problemlösen, wie es für Native Design Thinkers natürlich ist, erforscht wurde. Design Thinking gibt uns so die Möglichkeit auf gut erforschte Werkzeuge[^dschool] und Konzepte zurück zu greifen. Werkzeuge und Konzepte die genau für diese Art von Arbeit entwickelt wurden.
 
 
   [![Empathy Map der d.school.](https://dschool.stanford.edu/groups/k12/wiki/3d994/images/__thumbs__/bec3c.jpg)](http://dschool.stanford.edu/use-our-methods/)
@@ -106,7 +97,7 @@ author:      Peter Flucher
 
 ### Design Thinking als Kommunikationsmittel
 
-  Die Idee von Design Thinking war jedoch nicht Designern bessere Werkzeuge zu Verfügung zu stellen. Die Idee war, die Arbeitsweise von Designern in andere Bereiche einzuführen. Design Thinking hat sich immer mit der Wissen mit entwickelt, dies Menschen für die die Arbeitsweise neu ist, zu vermitteln zu müssen. Somit ist Design Thinking auch ein Kommunikationsmittel geworden. Es wirbt für die Arbeitsweise, die für viele die normale Arbeitsweise ist. Das schafft Akzeptanz und neue Spielwiesen für Native Design Thinker.
+  Die Idee von Design Thinking war jedoch nicht Designern bessere Werkzeuge zu Verfügung zu stellen. Die Idee war, die Arbeitsweise von Designern in andere Bereiche einzuführen. Design Thinking hat sich immer mit der Wissen mit entwickelt, dies Menschen für die die Arbeitsweise neu ist, zu vermitteln zu müssen. Somit ist Design Thinking auch ein Kommunikationsmittel geworden. Es wirbt für die Arbeitsweise, die für viele die normale Arbeitsweise ist. Das schafft Akzeptanz und neue Spielwiesen für Native Design Thinkers.
 
 
   Design Thinking beschreibt den kreativen Geist von denen die nicht zum Probieren aufgehört haben und macht ihn für die wieder zugänglich die mit fünf zum Sandspielen aufgehört haben.
