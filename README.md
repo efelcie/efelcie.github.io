@@ -15,6 +15,3 @@ permalink: /ueber/
 
 * [Pixyll](http://pixyll.com)
 * [GitHub](http://github.com)
-
-{{path}}
-
