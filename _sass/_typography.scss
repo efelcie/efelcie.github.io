@@ -18,11 +18,11 @@ small,
   font-size: 0.707rem;
 }
 h1 {
-	font-family:'Caslon Graphique W01';
+	font-family:'Caslon Graphique W01', serif;
 }
 
-.page-summary {
-	font-family:'Gentona W00';
+.page-summary, .post-summary {
+	font-family:'Gentona W00', sans;
 	font-weight: 200;
 	color: #7a7a7a;
     font-size: 1.5rem;
