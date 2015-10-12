@@ -98,7 +98,7 @@ description: {{summary}}
 
 ### Design Thinking als Kommunikationsmittel
 
-  Die Idee von Design Thinking war jedoch nicht Designern bessere Werkzeuge zu Verfügung zu stellen. Die Idee war, die Arbeitsweise von Designern in andere Bereiche einzuführen. Design Thinking hat sich immer mit der Wissen mit entwickelt, dies Menschen für die die Arbeitsweise neu ist, zu vermitteln zu müssen. Somit ist Design Thinking auch ein Kommunikationsmittel geworden. Es wirbt für die Arbeitsweise, die für viele die normale Arbeitsweise ist. Das schafft Akzeptanz und neue Spielwiesen für Native Design Thinkers.
+  Die Idee von Design Thinking war jedoch nicht Designern bessere Werkzeuge zu Verfügung zu stellen. Die Idee war, die Arbeitsweise von Designern in andere Bereiche einzuführen. Design Thinkin wurde also auch darauf hin entwickelt einfach kommunizierbar zu sein. Somit ist Design Thinking auch als Kommunikationsmittel nutzbar. Es wirbt für die Arbeitsweise, die für viele die normale Arbeitsweise ist. Das schafft Akzeptanz und neue Spielwiesen für Native Design Thinkers.
 
 
   Design Thinking beschreibt den kreativen Geist von denen die nicht zum Probieren aufgehört haben und macht ihn für die wieder zugänglich die mit fünf zum Sandspielen aufgehört haben.
