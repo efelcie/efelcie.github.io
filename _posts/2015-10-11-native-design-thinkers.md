@@ -5,6 +5,7 @@ date:       2015-10-11
 summary:    Design Thinking polarisiert. Für die einen ist es eine Offenbarung, für die anderen ein alter Hut. Der Grund dafür ist, dass es viele Native Design Thinkers gibt.
 categories: design thinking agile
 author:      Peter Flucher
+description: {{summary}}
 ---
 
 
