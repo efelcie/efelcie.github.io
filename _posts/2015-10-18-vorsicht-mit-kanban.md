@@ -22,7 +22,7 @@ date:       2015-10-18
 
 ## Die Geschichte von Kanban
 
-  In meinem Kühlschrank gibt es Platz für vier Liter Milch. Wenn ich einkaufen gehe, kaufe ich exakt soviel Liter Milch wie fehlen nach. Jedoch ich kaufe niemals mehr. Was ich, und viele andere wahrscheinlich auch, hier machen, nennt sich im Management "Kanban".
+  In meinem Kühlschrank gibt es Platz für vier Liter Milch. Wenn ich einkaufen gehe, kaufe ich exakt soviel Liter Milch wie fehlen nach. Jedoch ich kaufe niemals mehr. Was ich, und viele andere wahrscheinlich auch, hier mache, nennt sich im Management "Kanban".
 
   Kanban kommt aus dem japanischen und bedeutet Karte oder Beleg. Die Karte diente als eine Referenz auf das Ding. In meinem Fall gäbe es im System vier Karten. Jeder Liter Milch im Kühlschrank besetzt eine Karte. An den "freien" Karten sehe ich wie viel Liter Milch ich Kaufen soll.
 
