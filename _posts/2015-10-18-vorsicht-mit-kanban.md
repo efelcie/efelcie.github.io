@@ -45,7 +45,7 @@ date:       2015-10-18
 
   In der Autoproduktion wurde das System von Taiichi Ohno 1947 bei Toyota entwickelt. Und noch heute wendet es Toyota, mittlerweile der größte Autokonzern der Welt, erfolgreich an.
 
-  Wenn einem Toyota ein Teil in der Werkstatt ausgetauscht werden muss entnimmt die Werkstatt den Teil aus dem Lager. Automatisch bekommt das nächste lokale Toyota-Lager den Auftrag den Teil nachzuliefern. Von dort geht der Auftrag zum nächst größeren Lager bis es irgendwann einmal in einem Toyota-Werk landet. In dem Werk wird dann genau das benötigte Teil nach produziert.
+  Wenn einem Toyota ein Teil in der Werkstatt ausgetauscht werden muss entnimmt die Werkstatt das Teil aus dem Lager. Automatisch bekommt das nächste lokale Toyota-Lager das Auftrag das Teil nachzuliefern. Von dort geht der Auftrag zum nächst größeren Lager bis es irgendwann einmal in einem Toyota-Werk landet. In dem Werk wird dann genau das benötigte Teil nach produziert.
   
   Der Aufstieg von Toyota war so Erfolgreich, dass er genau erforscht und oft kopiert wurde. Im Jahr 1990 erschien ein Buch mit dem Titel "The Machine that changed the World : The Story of Lean Production."[^Womack] Seit dem spricht man in diesem Zusammenhang auch von **Lean Management**.
 
@@ -57,7 +57,7 @@ date:       2015-10-18
 
 ### Agile Methoden
 
-  Ebenfalls in den 1990er-Jahren entwickelte sich in der Software-Industrie Methoden die sehr viele Parallelen zu *Lean Management* haben. Man nennt diese Art der Softwareentwicklung **agil**. Zwei Gemeinsamkeiten sind z.B. dass beide Ansätze sich sehr stark am Kunden orientieren und so wenig wie möglich "Müll" erzeugen wollen.
+  Ebenfalls in den 1990er-Jahren entwickelten sich in der Software-Industrie Methoden die sehr viele Parallelen zu *Lean Management* haben. Man nennt diese Art der Softwareentwicklung **agil**. Zwei Gemeinsamkeiten sind z.B. dass beide Ansätze sich sehr stark am Kunden orientieren und so wenig wie möglich "Müll" erzeugen wollen.
 
   Im Jahr 2007 stellte *David Anderson* *Kanban* für die IT vor. (Ich unterscheide zwischen Taiichi Ohnos Kanban [kanban] und David Andersons *Kanban* [kænbæn] in kursiv und amerikanischer Aussprache.) Anderson geht es nicht darum Kanban eins zu eins zu übersetzen, sondern er sucht nach Wegen Softwareproduktion zu verbessern. Dabei fällt ihm auf, dass einige Element aus Kanban gut funktionieren und die Elemente auf viel weniger Widerstand bei der Implementation stoßen als zum Beispiel *Scrum*.
 
