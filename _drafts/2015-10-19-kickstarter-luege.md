@@ -14,7 +14,7 @@ summary:
             Dieser Artikel zeigt, warum so gut wie alle Studien die sich mit Kickstarter beschäftigen falsch sind.
 
 
-author:     Peter Flucher und Stephan Schnuderl
+author:     Peter Flucher
 date:       2015-10-19
 
 ---
@@ -26,14 +26,16 @@ date:       2015-10-19
 
   Im Herbst 2007 feierte eine Gruppe von 27 Studenten einen Geburtstag auf einer Almhütte in der Steiermark. Die Studenten stiegen am Vormittag zu der Hütte auf und hatten vor auf der Hütte zu übernachten. Jedoch, die Hütte stellte sich als Enttäuschung heraus. Anders als erwartet funktionierte das Wasser nicht und auch die der Ofen wollte nicht anfangen zu ziehen und räucherte die gesamte Hütte ein. Gegen Abend hin wurde es kalt und die Stimmung wurde immer mieser.
 
-  Norbert beschloss, dass wenn mindestens fünf andere mit gehen, er heute noch hinunter in die Zivilisation absteigt. Keiner wollte mit. Es begannen Diskussionen und es wurde lange überlegt. Nach endlos scheinenden zwei Stunden hatte Norbert endlich seine Gruppe zusammen und wollte gehen. Wärend die Sachen gepackt wurden, wuchs die Gruppe plötzlich explosionsartig an. 10 Min. später waren plötzlich alle 27 dabei.
+  Norbert beschloss, dass wenn mindestens fünf andere mit gehen, er heute noch hinunter in die Zivilisation absteigt. Keiner wollte mit. Es begannen Diskussionen und es wurde lange überlegt. Nach endlos scheinenden zwei Stunden hatte Norbert endlich seine Gruppe zusammen und wollte gehen. Während die Sachen gepackt wurden, wuchs die Gruppe plötzlich explosionsartig an. 10 Min. später waren plötzlich alle 27 dabei.
 
 
 ### 
 
   Wir entscheiden uns leichter, um so weniger Unsicherheit es für die Entscheidung zu beachten gibt. In diesem Fall verschwand, mit dem Erreichen der Schwelle von 6 Personen, die Unsicherheit ob überhaupt hinunter gegangen wird. Zusätzlich bestärkten die "Early Adopters" die anderen mit ihrer Entscheidung. Wenn manche schon so entschieden haben, kann es ja nicht ganz falsch sein.
 
-  Ähnliche Situationen haben die meisten wahrscheinlich schon erlebt. Und natürlich kennen wir dieses Phänomen auch im Internet. *Wolfgang Deutschmann* Gründer und Geschäftsführer der österreichischen Crowdfunding Plattform *GREEN ROCKET* bestätigte mir, dass dieses Phänomen auch gut kennt. Nach dem Erreichen der Schwelle gibt es bei den meisten Projekten noch einen gewaltigen Schub nach oben.
+  Ähnliche Situationen haben die meisten wahrscheinlich schon erlebt. Und natürlich kennen wir dieses Phänomen auch im Internet. *Wolfgang Deutschmann* Gründer und Geschäftsführer der österreichischen Crowdfunding Plattform *[GREEN ROCKET](https://www.greenrocket.com/)* bestätigte mir, dass dieses Phänomen auch gut kennt. Nach dem Erreichen der Schwelle gibt es bei den meisten Projekten auf seiner Plattform noch einen gewaltigen Schub nach oben.
+  
+
 
 ### Kickstarter-Paradoxon
 
@@ -44,14 +46,15 @@ date:       2015-10-19
 > about 10% over their goal. Only about 1 project 
 > in 9 receives 200% of its goal.
 >
-> -- Ethan Mollick (2014)
+> -- [Ethan Mollick (2014)](http://www.sciencedirect.com/science/article/pii/S088390261300058X)
+
+
 
   Erfolgreiche Kickstarter-Projekte enden nahe der Erfolgsschwelle. Es gibt zwar einige Projekte bei denen nach dem Erreichen der Erfolgsschwelle ein Hype einsetzt, jedoch bei mehr als der Hälfte alle erfolgreichen Projekte setzt dieses Phänomen nicht ein.
 
   Betrachtet man die fehlgeschlagenen Projekte stellt man fest, dass 90% der Projekte nicht einmal 10% ihres angestrebten Ziels erreicht haben. Vgl. Mollick 2014[^Mollick]
 
-  ![Vergleich zwischen erfolgreicher und nicht erfolgreicher Projekte auf Kickstarter.](/images/kickstarter-stat.jpg)
-
+  [![Vergleich zwischen erfolgreicher und nicht erfolgreicher Projekte auf Kickstarter.](/images/kickstarter-stat.jpg)](http://www.sciencedirect.com/science/article/pii/S088390261300058X)
 
   Man kann die Projekte grob in "fehlgeschlagene", "erfolgreiche" und "sehr erfolgreichen" einteilen. Wobei die sehr erfolgreichen eher eine Ausnahme darstellen.
 
@@ -60,7 +63,7 @@ date:       2015-10-19
 
 ## Zu hohe Ziele
 
-  Der Grund dieses Paradoxon liegt darin, dass sich die Projekte zu hohe Ziele stecken. Die Meisten Anleitungen die sich im Internet befinden beziehen sich auch auf die Studie von Mollick (2014). Jedoch wird daraus die Empfehlung abgeleitet das Fundingziel möglichst hoch zu stecken. Denn es gibt wenig Projekt die viel mehr als das angepeilte Ziel erreichen. 
+  Der Grund dieses Paradoxon liegt darin, dass sich die Projekte zu hohe Ziele stecken. Die Meisten Anleitungen die sich im Internet befinden beziehen sich auch auf die Studie von Mollick. Jedoch wird daraus die Empfehlung abgeleitet das Fundingziel möglichst hoch zu stecken. Denn es gibt wenig Projekt die viel mehr als das angepeilte Ziel erreichen. 
 
   Wir gehen davon aus wir haben ein Projekt auf Kickstarter laufen. Das Projekt scheint zuerst gut zu laufen aber bei ca. 60% der angestrebten Summe fängt das System zu stocken an. Mit aller Kraft können wir noch 70% unseres Ziels erreichen, mehr ist jedoch nicht möglich. Was machen wir? Schenken wir all die Spenden die wir uns mühsam erarbeitet haben her? Nein. Das Geld wird unabhängig von der Kickstarter-Kampagne irgendwie aufgetrieben.
 
@@ -84,9 +87,9 @@ date:       2015-10-19
 > Tools zur Verfügung, um verdächtige Aktivitäten
 > in Projekten aufzudecken und zu untersuchen.
 >
-> -- kickstarter.com/trust
+> -- [kickstarter.com](http://www.kickstarter.com/trust)
 
-  Müsste Kickstarter so ein Verhalten nicht auffallen? Ich habe nicht bei Kickstarter angefragt. Aber ich gehe davon aus, dass Kickstarter über dieses Verhalten sehr genau bescheid weiß. Jedoch widerspricht das Verhalten auch nicht den Vertrauensgrundsätzen die auf der Seite zu finden sind. 
+  Müsste Kickstarter so ein Verhalten nicht auffallen? Ich habe nicht bei Kickstarter angefragt. Aber ich gehe davon aus, dass Kickstarter über dieses Verhalten sehr genau Bescheid weiß. Jedoch widerspricht das Verhalten auch nicht den Vertrauensgrundsätzen die auf der Seite zu finden sind. 
 
   Weiters entsteht kein Schaden für die Spendenden. In manchen Fällen kommt dadurch vielleicht auch ein Investor ins Spiel, der für das Projekt eine zusätzliche Stütze ist.
 
@@ -102,7 +105,7 @@ date:       2015-10-19
 
   Kickstarter ist aus meiner Sicht nach wie vor eine hervorragende Crowdfunding Plattform. Als Spender ergeben sich für mich durch das Phänomen sogar Vorteile. 
 
-  Jedoch wenn man vor hat ein Kickstarter-Projekt zu starten, sollte man sich dem Effekt bewusst sein. Ich würde das Ziel auf keinen Fall höher als notwendig ansetzen. Einerseits um Kickstarter nicht unnötig Geld zu schenken. Andererseits kann man mit dem früheren Erreichen des Funding-Ziels noch einen kleinen Hype erreichen. So wie es Norbert beim Abstieg von der Hütte geschafft hat.
+  Jedoch wenn man vor hat ein Kickstarter-Projekt zu starten, sollte man sich dem Effekt bewusst sein. Ich würde das Ziel auf keinen Fall höher als notwendig ansetzen. Einerseits um Kickstarter nicht unnötig Geld zu schenken. Andererseits kann man mit dem früheren Erreichen des Funding-Ziels noch einen kleinen oder großen Hype erreichen. So wie es Norbert beim Abstieg von der Hütte geschafft hat.
 
   
 
