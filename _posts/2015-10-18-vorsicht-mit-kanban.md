@@ -110,7 +110,7 @@ date:       2015-10-18
 
 ### Informationsfluss
 
-  Doch der entscheidende Unterschied zwischen einem Pull und einem Push System ist der Fluss der Information. Kanban ist ein System in dem Information zurück fließen kann. In *Kanban* optimiert den Durchfluss, lässt den Kunden jedoch nicht selektieren welches Item er benötigt.
+  Doch der entscheidende Unterschied zwischen einem Pull und einem Push System ist der Fluss der Information. Kanban ist ein System in dem Information zurück fließen kann. *Kanban* optimiert den Durchfluss, regelt den Bedarf des Kunden jedoch nicht im System.
 
 
 ### Ring vs. Kette
@@ -130,6 +130,20 @@ date:       2015-10-18
 3. Der Kunde *zieht* sich genau das, was er benötigt. Es ist keine externe Steuerung notwendig.
 
 4. Der Begriff *Lean*, also schlank, kann auf den gesamten Produktions-Prozess angewendet werden. Es ist weniger "Müll" im Backlog.
+
+### Vanille Milch
+
+  Kanban ist in einer Autofabrik entwickelt worden. Es funktioniert wenn klar ist, was geliefert werden muss. Der Kunde will Milch und bekommt Milch.
+  In der Softwareentwicklung ist das nicht klar. Einmal will der Kunde Milch dann aber Vanille Milch.
+
+  In *Kanban* wandert dieses neue Feature "Vanille Milch" über die Feebackschleife in den Backlog und wandert, wenn Kapazität vorhanden ist, Station für Station durch das System.
+  In unserem Beispiel über den Bauern, die Molkerei usw. bis zurück zur Kundin.
+
+  Legen wir das Beispiel auf das klassischen Kanban um, stellt der Verkäufer den Kundenwunsch fest, meldet das der Lieferantin, bis zurück zur Molkerei, wo der Milch die Vanille zugesetzt wird. Dem Bauern kann es weiter egal sein wie er seine Kühe melkt. Erst wenn er etwas verändern muss wandert die Information zu ihm.
+
+  Ob ein System wie Kanban auch wirklich in der Softwareentwicklung funktionieren kann will und kann ich hier nicht beurteilen. Ich zeige hier nur auf, dass *Kanban* sich elementar von Kanban unterscheidet.
+
+
 
 
 
