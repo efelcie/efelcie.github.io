@@ -48,7 +48,8 @@ date:       2015-12-22
 
 ## Literaturverzeichnis
 
-[^Hernes]: Hernes, Tor. 2009. Understanding Organization as Process: Theory for a Tangled World. Routledge Chapman & Hall.
+
+[^Hernes]: Hernes, Tor. 2009. Understanding Organization as Process: Theory for a Tangled World. Routledge Chapman and Hall.
 
 [^Korten]: Korten, Fritz, Léon De Caluwé, and Jac Geurts. 2010. “The Future of Organization Development: A Delphi Study Among Dutch Experts.” Journal of Change Management 10 (December): 393–405.
 
