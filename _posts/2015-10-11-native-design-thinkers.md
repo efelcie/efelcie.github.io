@@ -16,7 +16,7 @@ description: {{summary}}
 
   Kreative haben oft Probleme sich für Design Thinking zu begeistern. Sie verstehen nicht, was andere an Design Thinking so genial finden und blocken ab. Wie können sie Design Thinking nutzen? Zunächst ist es wichtig zu verstehen, dass sich Design Thinking an der Arbeitsweise von Kreativen orientiert. Es entwickelt die Arbeitsweise weiter und macht es für Menschen, für die diese Vorgehensweise neu ist, zugänglich. Kreative die das begriffen haben, können Tools und Erkenntnisse aus dem Design Thinking in ihre Arbeitsweise integrieren und sich so weiter entwickeln. Zusätzlich können sie mit der Hilfe von Design Thinking anderen ihre Arbeitsweise näher bringen und sie von den Vorteilen ihrer Herangehensweise überzeugen.
 
-  *(Dieser Artikel beschreibt nicht was Design Thinking ist. Dazu emfehle ich die Beschreibung der Erfinder von Desing Thinking IDEO[^IDEO], des Hasso-Plattner-Instituts[^HPI] oder Wikipedia[^wiki].)*
+  *(Dieser Artikel beschreibt nicht was Design Thinking ist. Dazu emfehle ich die Beschreibung der Erfinder von Desing Thinking IDEO[^ideo], des Hasso-Plattner-Instituts[^hpi] oder Wikipedia[^wiki].)*
 
 ### Das war aber meine Idee
 
@@ -47,7 +47,7 @@ description: {{summary}}
 
   Wenn man mit Menschen über Design Thinking spricht, wird man oft mit einer ähnlichen Reaktion konfrontiert. "Da schmückt sich wer mit fremden Federn." "Ein alter Hut." 
 
-  Auf der anderen Seite gibt es einen Hype um Design Thinking. So richtet zum Beispiel die *Harvard Business Review* in der Ausgabe vom September 2015[^HBR] ihren Spotlight auf Design Thinking und beschreibt an Beispielen von großen Unternehmen wie *Samsung*, *PepsiCo* und natürlich *IDEO*, wie man daraus Vorteile ziehen kann oder dem Artikel von Irving Wladawsky-Berger im Wall Street Journal[^Wladawsky]. Auch in neueren Managementansätzen, wie zum Beispiel *Lean Startup*[^Ries] oder *Radical Management*[^Denning], hat Design Thinking eine wichtigen Platz.
+  Auf der anderen Seite gibt es einen Hype um Design Thinking. So richtet zum Beispiel die *Harvard Business Review* in der Ausgabe vom September 2015[^hbr] ihren Spotlight auf Design Thinking und beschreibt an Beispielen von großen Unternehmen wie *Samsung*, *PepsiCo* und natürlich *IDEO*, wie man daraus Vorteile ziehen kann oder dem Artikel von Irving Wladawsky-Berger im Wall Street Journal[^Wladawsky]. Auch in neueren Managementansätzen, wie zum Beispiel *Lean Startup*[^Ries] oder *Radical Management*[^Denning], hat Design Thinking eine wichtigen Platz.
 
 
 
@@ -110,13 +110,13 @@ description: {{summary}}
 
 ## Links
 
-[^HBR]: *Spotlight: Design Thinking.* In Harvard Business Review. September 2015.  <https://hbr.org/archive-toc/BR1509>.
+[^hbr]: *Spotlight: Design Thinking.* In Harvard Business Review. September 2015.  <https://hbr.org/archive-toc/BR1509>.
 
 [^wiki]: Design Thinking. Auf Wikipedia (de). <https://de.wikipedia.org/wiki/Design_Thinking>.
 
-[^HPI]: Was ist Design Thinking? Auf Hasso-Plattner-Institut. <http://hpi-academy.de/design-thinking/was-ist-design-thinking.html>.
+[^hpi]: Was ist Design Thinking? Auf Hasso-Plattner-Institut. <http://hpi-academy.de/design-thinking/was-ist-design-thinking.html>.
 
-[^IDEO]: About IDEO. Auf IDEO. <https://www.ideo.com/about/>.
+[^ideo]: About IDEO. Auf IDEO. <https://www.ideo.com/about/>.
 
 [^Hilbrecht]: Hester Hilbrecht / Oliver Kempkens: *Design Thinking im Unternehmen.* <http://link.springer.com/chapter/10.1007/978-3-658-00371-5_1>. (Springer Link)
 
