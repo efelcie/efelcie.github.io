@@ -49,11 +49,10 @@ date:       2015-12-22
 ## Literaturverzeichnis
 
 
-[^Hernes]: Hernes, Tor. 2009. Understanding Organization as Process: Theory for a Tangled World. Routledge Chapman and Hall.
+[^Hernes]: Hernes, Tor. 2009. Understanding Organization as Process: Theory for a Tangled World. Routledge Chapman & Hall.
 
 [^Korten]: Korten, Fritz, Léon De Caluwé, and Jac Geurts. 2010. “The Future of Organization Development: A Delphi Study Among Dutch Experts.” Journal of Change Management 10 (December): 393–405.
 
-[^Latour]: Latour, Bruno. 2007. Reassembling the Social: An Introduction to Actor-Network-Theory. Oxford
-University Press.
+[^Latour]: Latour, Bruno. 2007. Reassembling the Social: An Introduction to Actor-Network-Theory. Oxford University Press.
 
-[^Worle]: Worley, Christopher G., and Ann E. Feryerherm. 2003. “Reflections on the Future of Organization Development.” Journal of Behavioral Science 39 (March): 97–115. doi:10.1177/0021886303253181.
+[^Worley]: Worley, Christopher G., and Ann E. Feryerherm. 2003. “Reflections on the Future of Organization Development.” Journal of Behavioral Science 39 (March): 97–115. doi:10.1177/0021886303253181.
