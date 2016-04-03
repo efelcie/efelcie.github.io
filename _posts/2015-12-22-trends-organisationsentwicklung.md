@@ -9,8 +9,9 @@ categories: organisationentwicklung, oe, od
 
 
 
-title:      Aktuelle Trends und Entwicklungen in der Organisationsentwicklung
-summary:
+title:      Trends  in der Organisationsentwicklung
+summary:    Iterative Organisationen und starke Individuen als Strategie in
+            einer VUCA-Welt? Eine kurze Zusammenfassung über die Trends und Entwicklungen der Organisationsentwicklung der letzten Jahre.
             
 
 
